@@ -1,0 +1,25 @@
+<VisualStudioProject>
+  <CSHARP ProjectType="Local" ProductVersion="7.10.3077" SchemaVersion="2.0" ProjectGuid="1D97442A-F232-4850-B3F8-52FC73732CD5">
+    <Build>
+      <Settings ApplicationIcon="" AssemblyKeyContainerName="" AssemblyName="SO_FSharpActivePatterns" AssemblyOriginatorKeyFile="" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="Library" PreBuildEvent="" PostBuildEvent="" RootNamespace="SO_FSharpActivePatterns" RunPostBuildEvent="OnBuildSuccess" StartupObject="">
+        <Config Name="Debug" AllowUnsafeBlocks="false" BaseAddress="285212672" CheckForOverflowUnderflow="false" ConfigurationOverrideFile="" DefineConstants="DEBUG;TRACE" DocumentationFile="" DebugSymbols="true" FileAlignment="4096" IncrementalBuild="false" NoStdLib="false" NoWarn="" Optimize="false" OutputPath="bin\Debug\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="4" />
+        <Config Name="Release" AllowUnsafeBlocks="false" BaseAddress="285212672" CheckForOverflowUnderflow="false" ConfigurationOverrideFile="" DefineConstants="TRACE" DocumentationFile="" DebugSymbols="false" FileAlignment="4096" IncrementalBuild="false" NoStdLib="false" NoWarn="" Optimize="true" OutputPath="bin\Release\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="4" />
+      </Settings>
+      <References>
+        <Reference Name="mscorlib" AssemblyName="mscorlib" HintPath="mscorlib.dll" />
+        <Reference Name="FSharp.Core" AssemblyName="FSharp.Core" HintPath="FSharp.Core.dll" />
+      </References>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath="AssemblyInfo.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Program.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="_StartupCode$SO_FSharpActivePatterns_\$Program.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="_StartupCode$SO_FSharpActivePatterns_\$AssemblyInfo.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="_StartupCode$SO_FSharpActivePatterns_.$.NETFramework,Version=v4.5.2\AssemblyAttributes.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="FSharpSignatureData.SO_FSharpActivePatterns" BuildAction="EmbeddedResource" />
+        <File RelPath="FSharpOptimizationData.SO_FSharpActivePatterns" BuildAction="EmbeddedResource" />
+      </Include>
+    </Files>
+  </CSHARP>
+</VisualStudioProject>
